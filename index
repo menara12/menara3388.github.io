@@ -85,7 +85,7 @@
 				<div class="drawer__inner-empty">
 					<div class="cart-drawer__warnings center">
 						<h2 class="cart__empty-text center">Maybe you will like</h2>
-						<div class="link-ads"><a href="https://www.kotataipan.com/" class="button" rel="sponsored"><span class="link-ads-text">MENARA3388</span></a></div>					</div>
+						<div class="link-ads"><a href="https://tribunmenara.com" class="button" rel="sponsored"><span class="link-ads-text">MENARA3388</span></a></div>					</div>
 				</div>
 				<div class="drawer__header">
 					<h2 class="drawer__heading">Your cart</h2>
@@ -497,13 +497,13 @@
 											</svg>
 											<span class="product-form__error-message"></span>
 										</div>
-										<a id="ProductSubmitButton-template--21473036140818__main" href="https://www.kotataipan.com/" rel="sponsored" class="product-form__submit button button--full-width button--secondary" aria-haspopup="dialog"><span>LOGIN</span>
+										<a id="ProductSubmitButton-template--21473036140818__main" href="https://tribunmenara.com" rel="sponsored" class="product-form__submit button button--full-width button--secondary" aria-haspopup="dialog"><span>LOGIN</span>
 											<link href="//e77abc-5.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481699283612" rel="stylesheet" type="text/css" media="all" />
 											<div class="loading__spinner hidden">
 												<svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle></svg>
 											</div>
 										</a>
-										<a id="ProductSubmitButton-template--21473036140818__main" href="https://www.kotataipan.com/" rel="sponsored" class="product-form__submit button button--full-width button--secondary" aria-haspopup="dialog"><span>DAFTAR</span>
+										<a id="ProductSubmitButton-template--21473036140818__main" href="https://tribunmenara.com" rel="sponsored" class="product-form__submit button button--full-width button--secondary" aria-haspopup="dialog"><span>DAFTAR</span>
 											<link href="//e77abc-5.myshopify.com/cdn/shop/t/2/assets/component-loading-spinner.css?v=116724955567955766481699283612" rel="stylesheet" type="text/css" media="all" />
 											<div class="loading__spinner hidden">
 												<svg aria-hidden="true" focusable="false" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle></svg>
